@@ -1,0 +1,20 @@
+.App{
+  font-family: sans-serif;
+  align-items: center;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.otp-input{
+  width: 40px;
+  height: 40px;
+  margin: 2px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
